@@ -1,6 +1,6 @@
 {
   "name": "nielsbusch-grommet-css",
-  "version": "1.11.0",
+  "version": "1.11.0-hpe",
   "description": "Standalone css for grommet ui library.",
   "main": "build/index.min.css",
   "scripts": {
